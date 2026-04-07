@@ -17,7 +17,7 @@ Wine and Meat are the stars: These two categories bring in the most revenue by f
 
 Income matters: The correlation confirmed that the more people earn, the more they spend on premium items, which seems obvious but it’s good to see it backed by actual data.
 
-*Olesia analytics. marketing_campain.xlsx* - I have made this dashboard fully interactive so you can explore the data yourself. Feel free to play around with the Slicers to see how different factors like age, income, or having children actually change the spending patterns. You can explore the formulas and data structure directly in the file to see the analysis process.
+*Olesia.Customer-Personality-Analysis-Excel* - I have made this dashboard fully interactive so you can explore the data yourself. Feel free to play around with the Slicers to see how different factors like age, income, or having children actually change the spending patterns. You can explore the formulas and data structure directly in the file to see the analysis process.
 
 *raw_marketing_data.csv* - This is the original dataset I started with. I’ve included the raw data to provide full transparency into my cleaning process and to show how the data was structured for the final dashboard.
 
